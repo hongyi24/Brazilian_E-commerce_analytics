@@ -5,7 +5,7 @@
 - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data?select=olist_products_dataset.csv
 
 - **数据架构：**
-  ![数据架构](ima数据架构es/6.png)
+  ![数据架构](images/6.png)
 
 ## 顾客行为：
 
