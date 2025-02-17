@@ -1,6 +1,11 @@
 # Brazilian_E-commerce_analytics
-
 基于 Brazilian E-Commerce Public Dataset，从 **顾客行为、销售与产品、物流与运营效率、市场与地理扩展、支付与评价反馈** 五个维度展开分析。
+
+**数据集链接：**
+- https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data?select=olist_products_dataset.csv
+
+- **数据架构：**
+  ![数据架构](ima数据架构es/6.png)
 
 ## 顾客行为：
 
